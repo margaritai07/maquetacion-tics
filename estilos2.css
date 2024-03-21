@@ -1,0 +1,98 @@
+.Contenedor_Principal .Encabezado {
+    width: 100%;
+    height: 60px;
+    color: rgba(32,6,86,1.00);
+    background-color: rgba(106,178,245,1.00);
+    font-style: normal;
+    font-size: 20pt;
+    font-weight: lighter;
+    text-align: center;
+    text-decoration: underline;
+}
+.Contenedor_Principal .MENU {
+    width: 100%;
+    height: 40px;
+    background-color: rgba(227,235,170,1.00);
+    text-align: center;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-style: italic;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #941C81;
+    font-weight: bold;
+}
+.Contenedor_Principal .MENU_LATERAL {
+    width: 40%;
+    height: 300px;
+    background-color: rgba(235,177,237,1.00);
+    margin-top: 5px;
+    border-radius: 6px;
+    text-align: center;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    color: #B79BBB;
+    float: left;
+    color: rgba(23,32,100,1.00);
+    font-style: italic;
+    font-weight: bold;
+}
+.Contenedor_Principal .CONTENDEDOR_DE_ARTICULOS {
+    width: 60%;
+    height: 300px;
+    background-color: rgba(187,208,207,1.00);
+    border-radius: 6px;
+    margin-top: 5px;
+    float: left;
+}
+.Contenedor_Principal .CONTENDEDOR_DE_ARTICULOS .ARTICULO1 {
+    width: 95%;
+    height: 47px;
+    background-color: #E9CD89;
+    color: #13110B;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-style: normal;
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 6px;
+}
+.Contenedor_Principal .CONTENDEDOR_DE_ARTICULOS .ARTICULO2 {
+    width: 45%;
+    height: 160px;
+    background-color: #B1A9E8;
+    color: #147726;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-style: normal;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 19px;
+    border-radius: 5px;
+    float: left;
+}
+.Contenedor_Principal .CONTENDEDOR_DE_ARTICULOS .ARTICULO3 {
+    background-color: rgba(226,211,228,1.00);
+    width: 45%;
+    height: 160px;
+    margin-top: 15px;
+    margin-right: 19px;
+    float: left;
+    text-align: center;
+    color: #9D1DB9;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;	
+	
+}
+.Contenedor_Principal .PIE_DE_PAGINA {
+    width: 100%;
+    height: 60px;
+    color: rgba(54,10,77,1.00);
+    text-align: center;
+    font-size: 20pt;
+    font-weight: bold;
+    font-style: normal;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    background-color: rgba(200,239,245,1.00);
+    border-radius: 5px;
+    margin-top: 5px;
+    float: right;
+    clear: both;
+}
